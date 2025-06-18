@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Eater&family=Fruktur:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Eater&family=Fruktur:ital@0;1&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Eater&family=Fruktur:ital@0;1&family=Poiret+One&display=swap');
 
 body{
     background-color:green;
@@ -5,24 +8,41 @@ body{
 h1{
     text-align:center;
     font-size:40px;
+    font-family:'Poiret One', sans-serif;
 }
 
 h2{
     text-align:center;
+    font-family:'Delius', sans-serif;
 }
 
 h3{
     text-align:center;
     font-size:29px;
+    font-family:'Delius', sans-serif;
+    margin-top:-4px;
+}
+
+h4{
+    text-align:center;
+    font-size:29px;
+    font-family:'Delius', sans-serif;
+    
 }
 
 p{
     text-align:center;
-    font-size:20px;
+    font-size:35px;
+    font-family:'Delius', sans-serif;
 }
 
 .white{
-    color:white;
+    color:rgb(11, 61, 24);
+    text-decoration:none;
+    text-decoration-thickness: 0px;
+    font-family:'Eater', sans-serif;
+    -webkit-text-stroke: 0.01px white;
+    font-size:100px;
 }
 
 .quiz-box, .quiz-box-1, .quiz-box-2, .quiz-box-3, .quiz-box-4, .quiz-box-5, .quiz-box-6, .quiz-box-7, .quiz-box-8, .quiz-box-9, .quiz-box-10, .quiz-box-11, .quiz-box-12 {
