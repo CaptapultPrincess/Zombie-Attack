@@ -1,0 +1,64 @@
+
+body{
+    background-color:green;
+}
+h1{
+    text-align:center;
+    font-size:40px;
+}
+
+h2{
+    text-align:center;
+}
+
+h3{
+    text-align:center;
+    font-size:29px;
+}
+
+p{
+    text-align:center;
+    font-size:20px;
+}
+
+.white{
+    color:white;
+}
+
+.quiz-box, .quiz-box-1, .quiz-box-2, .quiz-box-3, .quiz-box-4, .quiz-box-5, .quiz-box-6, .quiz-box-7, .quiz-box-8, .quiz-box-9, .quiz-box-10, .quiz-box-11, .quiz-box-12 {
+    background-color:bisque;
+    border-radius:50px;
+    width:auto;
+    height:fit-content;
+    margin-bottom:15px;
+    display:none;
+}
+.quiz-box-12{
+    font-size:50px;
+}
+
+
+.quiz-opt-box, .quiz-opt-z, .quiz-opt-s, .quiz-opt-v, .quiz-opt-h, .quiz-opt-c, .quiz-opt-d, .quiz-opt-b, .quiz-opt-f{
+    background-color:rgb(255, 255, 255);
+    width:290px;
+    height:300px;
+    border-radius:20px;
+    border-width:50px;
+    border-color:black;
+    text-align:center;
+    display:inline-block;
+    padding:20px;
+    margin-left:10px;
+    margin-bottom:20px;
+    font-size:25px;
+
+
+}
+
+.quiz-img{
+    width:250px;
+    height:220px;
+    border-radius:20px;
+    margin-top:5px; 
+
+}
